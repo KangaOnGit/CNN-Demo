@@ -1,2 +1,2 @@
 # CNN-Demo
-Some Exercises
+Applied LeNet and TextCNN
